@@ -1,0 +1,23 @@
+name: syncopate
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - pytorch
+  - scikit-learn
+  - transformers
+  - nltk
+  - ipykernel
+  - torchvision
+  - cudatoolkit
+  - tqdm
+  - notebook
+  - ipywidgets
+  - plotly
+  - datasets
+  - tensorflow
+  - pip:
+    - torchaudio
+    - optuna

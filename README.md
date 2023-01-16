@@ -1,0 +1,1 @@
+# SYNCOPATE: SYNthetiC OPinionAted TriplEs
